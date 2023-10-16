@@ -1,0 +1,7 @@
+{
+  "name": "livro-de-visitas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}

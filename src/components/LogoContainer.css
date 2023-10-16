@@ -1,0 +1,14 @@
+
+.logo {
+    width: 60%;
+}
+
+.img-container {
+    height: 40%;
+    margin: 5%;
+}
+
+.text-footer {
+    position: absolute;
+    bottom: 0;
+}
